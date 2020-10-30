@@ -1,6 +1,6 @@
 import { ApiTags } from "@nestjs/swagger";
 import { Controller, Post, Body, BadRequestException } from "@nestjs/common";
-import { TokenService, InjectTokenService, Identity } from "@agiletech.vn/nestjs-authentication";
+import { TokenService, InjectTokenService, Identity } from "@vuquangthinh/nestjs-authentication";
 import { BasicService } from "../services/basic.service";
 import { InjectBasicService } from "../injects";
 import { LoginDto } from "../dtos";

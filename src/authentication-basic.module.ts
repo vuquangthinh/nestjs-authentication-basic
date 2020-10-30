@@ -8,7 +8,7 @@ import {
   ValueProvider,
   ExistingProvider,
 } from "@nestjs/common";
-import { AuthenticationModule } from "@agiletech.vn/nestjs-authentication";
+import { AuthenticationModule } from "@vuquangthinh/nestjs-authentication";
 import { BasicService } from "./services/basic.service";
 import * as Controller from "./controllers";
 

@@ -1,4 +1,4 @@
-import { Identity } from "@agiletech.vn/nestjs-authentication";
+import { Identity } from "@vuquangthinh/nestjs-authentication";
 import { LoginDto } from "../dtos";
 
 export interface BasicService<T extends LoginDto = LoginDto, I = Identity> {
