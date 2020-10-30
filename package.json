@@ -1,6 +1,6 @@
 {
   "name": "@vuquangthinh/nestjs-authentication-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,7 +19,7 @@
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.2",
     "uuid": "^3.3.2",
-    "@vuquangthinh/nestjs-authentication": "1.0.0"
+    "@vuquangthinh/nestjs-authentication": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^10.7.1",
